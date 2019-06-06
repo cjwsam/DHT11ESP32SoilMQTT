@@ -1,6 +1,8 @@
 # DHT11ESP32SoilMQTT
 
   Code mai https://github.com/cjwsam  (Tama Ausetalia mai Samoa i Norge)
+  
+  NOTE:/ Change extention to .ino for easy use with Arduino IDE
 
   Feel free to use this code it can be used with any esp32 board BUT its designed to be used with a DHTSoilESP32 
   This code in a nutshell takes humidity, tempreature and soil wetness mesurements
